@@ -1,0 +1,47 @@
+-25:masculino
+treinta:femenino
+null:no binario
+35:masculino
+-42:femenino
+null:masculino
+cincuenta:no binario
+28:femenino
+-18:masculino
+null:femenino
+diez:no binario
+22:masculino
+-36:femenino
+null:no binario
+veinte:masculino
+31:femenino
+-50:masculino
+null:femenino
+veinticinco:no binario
+40:masculino
+-60:femenino
+null:masculino
+treinta y cinco:femenino
+45:masculino
+-70:femenino
+null:no binario
+cuarenta:masculino
+55:femenino
+-80:masculino
+null:femenino
+sesenta:no binario
+33:masculino
+-90:femenino
+null:no binario
+ochenta:masculino
+27:femenino
+-100:masculino
+null:femenino
+setenta:no binario
+39:masculino
+-110:femenino
+null:masculino
+noventa:femenino
+49:masculino
+-120:no binario
+null:femenino
+cien:masculino
