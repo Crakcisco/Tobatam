@@ -1,4 +1,4 @@
-datos = '''CREATE TABLE datos (
+CREATE TABLE datos (
     id INT AUTO_INCREMENT PRIMARY KEY,
     edad FLOAT,
     genero VARCHAR(50)
